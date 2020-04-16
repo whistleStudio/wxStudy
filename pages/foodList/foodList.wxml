@@ -1,0 +1,5 @@
+<!--pages/foodList/foodList.wxml-->
+<text>食品列表</text>
+<view class="food-list">
+  <image src="" />
+</view>

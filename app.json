@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/sellerList/sellerList",
+    "pages/foodList/foodList"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
