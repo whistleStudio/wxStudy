@@ -1,0 +1,7 @@
+<!--components/FoodCard/FoodCard.wxml-->
+<view class="card">
+  <image class="avator" src="/assests/image/whistleStudio.png"
+         mode="aspectFit"
+  >not found</image>
+  <text class="info">whistle studio</text>
+</view>

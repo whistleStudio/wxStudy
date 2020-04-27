@@ -1,3 +1,10 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "SellerCard": "/components/SellerCard/SellerCard"
+  },
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "sellerList",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light"
 }

@@ -1,7 +1,33 @@
 {
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#e98f36",
+    "list": [{
+      "pagePath": "pages/foodList/foodList",
+      "text": "food",
+      "iconPath": "assests/image/鸡腿.png",
+      "selectedIconPath": "assests/image/鸡腿active.png"
+    },
+    {
+      "pagePath": "pages/sellerList/sellerList",
+      "text": "seller",
+      "iconPath": "assests/image/卖家.png",
+      "selectedIconPath": "assests/image/卖家active.png"
+    }
+  ]
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "DEMO",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
   "pages": [
     "pages/sellerList/sellerList",
-    "pages/foodList/foodList"
+    "pages/foodList/foodList",
+    "pages/databind/databind"
   ],
   "sitemapLocation": "sitemap.json"
 }

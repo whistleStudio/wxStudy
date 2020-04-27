@@ -1,0 +1,23 @@
+<text>{{testText}}</text>
+<text>{{testPrice>=1000 ? (testPrice/1000) + "k" : testPrice}}</text>
+<text>质量 <text class="{{testIsStar ? 'isStar' : ''}}" 
+                wx:if="{{testIsStar}}">good</text> </text>
+<!-- 利用block不会破坏目录结构 -->
+<!-- <block wx:if="{{score === 100}}">
+  A+ <text>真棒</text>
+</block>
+<block wx:elif="{{score >= 90}}">
+  A <text>真尼玛棒?</text>
+</block>
+<text wx:elif="{{score >= 80}}">B</text>
+<text wx:elif="{{score >= 70}}">C</text> -->
+
+<text hidden="{{true}}">false 我显示</text>
+
+<view class="seller-list">
+  <SellerCard/>
+  <SellerCard/>
+  <SellerCard/>
+  <SellerCard/>
+  <!-- <SellerCard/> -->
+</view>

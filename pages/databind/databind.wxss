@@ -1,0 +1,12 @@
+/* pages/databind/databind.wxss */
+.seller-list {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.common {
+  color: gray;
+}
+.isStar {
+  color: gold;
+}

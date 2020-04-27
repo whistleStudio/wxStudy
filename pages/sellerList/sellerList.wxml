@@ -1,2 +1,9 @@
 <!--pages/sellerList/sellerList.wxml-->
 <text>商家列表</text>
+<view class="seller-list">
+  <SellerCard/>
+  <SellerCard/>
+  <SellerCard/>
+  <SellerCard/>
+  <!-- <SellerCard/> -->
+</view>

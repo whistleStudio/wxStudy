@@ -1,0 +1,11 @@
+<!--components/SellerCard/SellerCard.wxml-->
+<view class="card">
+  <image class="img" src="/assests/image/whistleStudio_github.jpg"
+                     mode="aspectFill"
+  ></image>
+  <view class="info">
+    <text>whistle studio</text>
+    <text>在售商品: 99</text>
+    <text>信誉等级: 极好</text>
+  </view>
+</view>

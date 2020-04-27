@@ -1,10 +1,10 @@
 {
   "usingComponents": {
-    "FoodCard": "/components/FoodCard/FoodCard"
+    "SellerCard": "/components/SellerCard/SellerCard"
   },
   "navigationBarBackgroundColor": "#ffffff",
   "navigationBarTextStyle": "black",
-  "navigationBarTitleText": "foodList",
+  "navigationBarTitleText": "databind",
   "backgroundColor": "#eeeeee",
   "backgroundTextStyle": "light"
 }

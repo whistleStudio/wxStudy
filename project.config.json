@@ -24,7 +24,7 @@
 		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.11.0",
 	"appid": "wx9aa61faf9cdefdf8",
 	"projectname": "miniprogram",
 	"cloudfunctionTemplateRoot": "",
@@ -61,7 +61,7 @@
 			"current": -1,
 			"list": [
 				{
-					"id": -1,
+					"id": 0,
 					"name": "商家列表",
 					"pathName": "pages/sellerList/sellerList",
 					"query": "",
@@ -71,6 +71,13 @@
 					"id": 1,
 					"name": "食品列表",
 					"pathName": "pages/foodList/foodList",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "数据绑定",
+					"pathName": "pages/databind/databind",
 					"query": "",
 					"scene": null
 				}
