@@ -1,6 +1,6 @@
 {
   "usingComponents": {
-    "SellerCard": "/components/SellerCard/SellerCard"
+    
   },
   "navigationBarBackgroundColor": "#ffffff",
   "navigationBarTextStyle": "black",

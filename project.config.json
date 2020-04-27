@@ -80,6 +80,13 @@
 					"pathName": "pages/databind/databind",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "事件绑定",
+					"pathName": "pages/eventbind/eventbind",
+					"query": "",
+					"scene": null
 				}
 			]
 		}

@@ -1,7 +1,7 @@
-<text>{{testText}}</text>
+<!-- <text>{{testText}}</text>
 <text>{{testPrice>=1000 ? (testPrice/1000) + "k" : testPrice}}</text>
 <text>质量 <text class="{{testIsStar ? 'isStar' : ''}}" 
-                wx:if="{{testIsStar}}">good</text> </text>
+                wx:if="{{testIsStar}}">good</text> </text> -->
 <!-- 利用block不会破坏目录结构 -->
 <!-- <block wx:if="{{score === 100}}">
   A+ <text>真棒</text>
@@ -12,12 +12,18 @@
 <text wx:elif="{{score >= 80}}">B</text>
 <text wx:elif="{{score >= 70}}">C</text> -->
 
-<text hidden="{{true}}">false 我显示</text>
+<!-- <text hidden="{{true}}">false 我显示</text> -->
 
-<view class="seller-list">
-  <SellerCard/>
-  <SellerCard/>
-  <SellerCard/>
-  <SellerCard/>
-  <!-- <SellerCard/> -->
-</view>
+<!-- <block wx:for="{{info}}" wx:for-item="infoItem" wx:for-index="idx">
+  <view>
+    <text>索引: {{idx}}</text>
+    <text>标题: {{infoItem.title}} </text>
+    <text>数量: {{infoItem.count}} </text>
+  </view>
+</block> -->
+
+<block wx:for="{{info}}" wx:key="_id">
+  <switch>{{item}}</switch>
+</block>
+<button bindtap="_addSwitch">添加一个switch</button>
+

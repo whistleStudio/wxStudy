@@ -27,7 +27,8 @@
   "pages": [
     "pages/sellerList/sellerList",
     "pages/foodList/foodList",
-    "pages/databind/databind"
+    "pages/databind/databind",
+    "pages/eventbind/eventbind"
   ],
   "sitemapLocation": "sitemap.json"
 }
