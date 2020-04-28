@@ -7,7 +7,31 @@ Page({
   data: {
 
   },
-
+  /*自定义事件*/
+  // _tapFirst: function() {
+  //   console.log("1")
+  // },
+  // _tapSecond: function() {
+  //   console.log("2")
+  // },
+  // _tapThird: function() {
+  //   console.log("3")
+  // },
+  // _longpress: function() {
+  //   console.log("longpress")
+  // },
+  _tap: function(evt) {
+    console.log("tap", evt)
+  },
+  // _touchstart: function() {
+  //   console.log("touchstart")
+  // },
+  // _touchmove: function() {
+  //   console.log("touchmove")
+  // },
+  // _touchcancel: function() {
+  //   console.log("touchcancel")
+  // },
   /**
    * 生命周期函数--监听页面加载
    */
@@ -19,7 +43,12 @@ Page({
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-
+    // setTimeout(() => {
+    //   wx.showModal({
+    //     title: '我是一个不起眼的模态窗',
+    //     cancelColor: 'cancelColor',
+    //   })
+    // }, 3000)
   },
 
   /**

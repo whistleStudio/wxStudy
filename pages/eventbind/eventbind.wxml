@@ -1,2 +1,20 @@
 <!--pages/eventbind/eventbind.wxml-->
 <text>eventbind</text>
+<!-- <view class="first" bindtap="_tapFirst">first
+  <view class="second" bindtap="_tapSecond">second
+    <view class="third" bindtap="_tapThird">third
+    </view>
+  </view>
+</view> -->
+
+<!-- <view class="testEvent" bindtap="_tap" bindlongpress="_longpress"
+      bindtouchstart="_touchstart" bindtouchmove="_touchmove"
+      bindtouchcancel="_touchcancel"
+>test</view> -->
+
+<view id="1" class="first" data-name="sh" data-gender="male" bindtap="_tap">first
+  <view id="2" class="second" bindtap="_tap">second
+    <view id="3" class="third" bindtap="_tap">third
+    </view>
+  </view>
+</view>

@@ -1,1 +1,22 @@
 /* pages/eventbind/eventbind.wxss */
+.first {
+  width: 300rpx;
+  height: 300rpx;
+  background-color: red;
+  margin-left: 200rpx;
+}
+.second {
+  width: 150rpx;
+  height: 150rpx;
+  background-color: greenyellow;
+}
+.third {
+  width: 75rpx;
+  height: 75rpx;
+  background-color: skyblue;
+}
+/* .testEvent {
+  width: 300rpx;
+  height: 300rpx;
+  background-color: steelblue;
+} */
