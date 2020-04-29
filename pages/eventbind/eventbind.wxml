@@ -12,7 +12,8 @@
       bindtouchcancel="_touchcancel"
 >test</view> -->
 
-<view id="1" class="first" data-name="sh" data-gender="male" bindtap="_tap">first
+<view id="1" class="first" data-name="sh" data-gender="male" 
+      bindtap="_tap">first
   <view id="2" class="second" bindtap="_tap">second
     <view id="3" class="third" bindtap="_tap">third
     </view>
