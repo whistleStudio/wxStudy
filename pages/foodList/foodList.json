@@ -1,6 +1,7 @@
 {
   "usingComponents": {
-    "FoodCard": "/components/FoodCard/FoodCard"
+    "FoodCard": "/components/FoodCard/FoodCard",
+    "Gitest": "/components/Gitest/Gitest"
   },
   "navigationBarBackgroundColor": "#ffffff",
   "navigationBarTextStyle": "black",

@@ -1,6 +1,7 @@
 <!--pages/foodList/foodList.wxml-->
 <text>食品列表</text>
 <view class="food-list">
+  <Gitest/>
   <FoodCard/>
   <FoodCard/>
   <FoodCard/>
@@ -8,6 +9,9 @@
   <FoodCard/>
   <FoodCard/>
   <FoodCard/>
+  <FoodCard/>
+  <FoodCard/>
+  <!-- new -->
   <FoodCard/>
   <FoodCard/>
 </view>
