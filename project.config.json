@@ -87,6 +87,13 @@
 					"pathName": "pages/eventbind/eventbind",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "数据传递",
+					"pathName": "pages/dataTransfer/dataTransfer",
+					"query": "",
+					"scene": null
 				}
 			]
 		}

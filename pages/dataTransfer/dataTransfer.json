@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "FoodItem": "/components/FoodItem/FoodItem"
+  },
+  "navigationBarTitleText": "数据传递"
+}

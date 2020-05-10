@@ -1,0 +1,6 @@
+<!--pages/dataTransfer/dataTransfer.wxml-->
+<view class="box">
+  <view wx:for="{{foodTable}}" wx:key="id" bind:longpress="_itemSelect">
+    <FoodItem food-item="{{item}}" id="{{item.id}}" />
+  </view>
+</view>
