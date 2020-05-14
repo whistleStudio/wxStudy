@@ -1,0 +1,2 @@
+/* pages/templateUse/templateUse.wxss */
+@import "/templates/msg/msg.wxss"

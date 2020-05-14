@@ -1,0 +1,10 @@
+<!--pages/templateUse/templateUse.wxml-->
+<view>
+  <!-- <template name="msg">
+    <view>啦啦啦</view>
+    <text>{{content}}</text>
+  </template> -->
+  <import src="/templates/msg/msg.wxml"/>
+  <template is="msg" data="{{content: 'wohahah'}}"></template>
+  <template is="msg"></template>
+</view>

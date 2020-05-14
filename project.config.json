@@ -94,6 +94,13 @@
 					"pathName": "pages/dataTransfer/dataTransfer",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "模板使用",
+					"pathName": "pages/templateUse/templateUse",
+					"query": "",
+					"scene": null
 				}
 			]
 		}

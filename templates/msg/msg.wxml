@@ -1,0 +1,5 @@
+<!-- templated/msg/msg.wxml -->
+<template name="msg">
+  <view>啦啦啦</view>
+  <text class="content">{{content}}</text>
+</template>
