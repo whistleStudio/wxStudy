@@ -6,9 +6,9 @@ Page({
    */
   data: {
     foodTable: [
-      {id: 1, title: "whistle studio", imgSrc: "/assests/image/whistleStudio.png"},
-      {id: 2, title: "whistle study", imgSrc: "/assests/image/whistleStudio.png"},
-      {id: 3, title: "whistle stupid", imgSrc: "/assests/image/whistleStudio.png"}
+      {_id: 1, title: "whistle studio", imgSrc: "/assests/image/whistleStudio.png"},
+      {_id: 2, title: "whistle study", imgSrc: "/assests/image/whistleStudio.png"},
+      {_id: 3, title: "whistle stupid", imgSrc: "/assests/image/whistleStudio.png"}
     ]
   },
   _itemSelect(evt) {

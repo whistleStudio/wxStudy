@@ -1,7 +1,8 @@
 <!--components/FoodCard/FoodCard.wxml-->
-<view class="card">
+<view class="card {{isPreDel ? 'preDel' : ''}}" bind:longpress="_select">
   <image class="avator" src="{{foodItem.imgSrc}}"
          mode="aspectFit"
   >not found</image>
   <text class="info">{{foodItem.title}}</text>
+  <view class="del" hidden="{{!isSelect}}" bind:tap="_del">x</view>
 </view>
