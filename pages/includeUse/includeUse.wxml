@@ -1,0 +1,7 @@
+<!--pages/includeUse/includeUse.wxml-->
+<text>include使用</text>
+<view class="box">
+  <include src="include/header.wxml"/>
+  <view>im main content</view>
+  <include src="include/footer.wxml"/>
+</view>

@@ -1,0 +1,6 @@
+/* pages/includeUse/includeUse.wxss */
+.box {
+  width: 300rpx;
+  height: 300rpx;
+  border: 1px solid orange;
+}

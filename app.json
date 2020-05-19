@@ -30,7 +30,8 @@
     "pages/databind/databind",
     "pages/eventbind/eventbind",
     "pages/dataTransfer/dataTransfer",
-    "pages/templateUse/templateUse"
+    "pages/templateUse/templateUse",
+    "pages/includeUse/includeUse"
   ],
   "sitemapLocation": "sitemap.json"
 }

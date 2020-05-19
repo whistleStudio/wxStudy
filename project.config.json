@@ -101,6 +101,13 @@
 					"pathName": "pages/templateUse/templateUse",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "include使用",
+					"pathName": "pages/includeUse/includeUse",
+					"query": "",
+					"scene": null
 				}
 			]
 		}
