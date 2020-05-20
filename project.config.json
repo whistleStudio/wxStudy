@@ -108,6 +108,12 @@
 					"pathName": "pages/includeUse/includeUse",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "wxs使用",
+					"pathName": "pages/wxsUse/wxsUse",
+					"scene": null
 				}
 			]
 		}
