@@ -1,0 +1,3 @@
+<!--pages/WeUI/WeUI.wxml-->
+<text>pages/mySearchbar/mySearchbar.wxml</text>
+<MySearchbar/>

@@ -31,7 +31,9 @@
     "pages/eventbind/eventbind",
     "pages/dataTransfer/dataTransfer",
     "pages/templateUse/templateUse",
-    "pages/includeUse/includeUse"
+    "pages/includeUse/includeUse",
+    "pages/WeUI/WeUI",
+    "pages/BIC_view/BIC_view"
   ],
   "sitemapLocation": "sitemap.json"
 }

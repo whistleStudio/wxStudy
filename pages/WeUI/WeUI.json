@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "MySearchbar": "/components/MySearchbar/MySearchbar"
+  },
+  "navigationBarTitleText": "WeUI组件使用"
+}

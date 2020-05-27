@@ -1,0 +1,30 @@
+/* pages/BIC_view/BIC_view.wxss */
+.box {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box>view {
+  width: 200rpx;
+  height: 200rpx;
+  background: orange;
+}
+.hover {
+  background: tomato !important;
+  border: 2px solid white;
+}
+.gp {
+  width: 600rpx;
+  height: 600rpx;
+  background-color: turquoise;
+  margin: 20px auto;
+}
+.p {
+  width: 300rpx;
+  height: 300rpx;
+  background-color: skyblue;
+}
+.s {
+  width: 150rpx;
+  height: 150rpx;
+  background-color: pink;
+}

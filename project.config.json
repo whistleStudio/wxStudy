@@ -108,6 +108,20 @@
 					"pathName": "pages/includeUse/includeUse",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "WeUI组件使用",
+					"pathName": "pages/WeUI/WeUI",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "内置组件-view",
+					"pathName": "pages/BIC_view/BIC_view",
+					"query": "",
+					"scene": null
 				}
 			]
 		}

@@ -1,0 +1,16 @@
+<!--pages/BIC_view/BIC_view.wxml-->
+<view class="box">
+  <view hover-class="hover"></view>
+  <view hover-class="hover" hover-start-time="1000"></view>
+  <view hover-class="hover" hover-start-time="1000" hover-stay-time="2000"></view>
+</view>
+
+<view class="gp" hover-class="hover">
+  grandparent
+  <view class="p" hover-class="hover" hover-stop-propagation>
+    parent
+    <view class="s" hover-class="hover">
+    son
+    </view>
+  </view>
+</view>
