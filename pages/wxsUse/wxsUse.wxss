@@ -1,0 +1,14 @@
+/* pages/wxsUse/wxsUse.wxss */
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: orange solid 1px;
+}
+.box.head {
+  background-color: orange;
+  color:white;
+}
+.box>text {
+  width: 250rpx;
+  text-align: center;
+}

@@ -33,7 +33,8 @@
     "pages/templateUse/templateUse",
     "pages/includeUse/includeUse",
     "pages/WeUI/WeUI",
-    "pages/BIC_view/BIC_view"
+    "pages/BIC_view/BIC_view",
+    "pages/wxsUse/wxsUse"
   ],
   "sitemapLocation": "sitemap.json"
 }

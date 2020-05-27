@@ -122,6 +122,13 @@
 					"pathName": "pages/BIC_view/BIC_view",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "wxs使用",
+					"pathName": "pages/wxsUse/wxsUse",
+					"query": "",
+					"scene": null
 				}
 			]
 		}
