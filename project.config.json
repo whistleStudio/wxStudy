@@ -129,6 +129,12 @@
 					"pathName": "pages/wxsUse/wxsUse",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "内置组件text",
+					"pathName": "pages/BIC_text/BIC_text",
+					"scene": null
 				}
 			]
 		}

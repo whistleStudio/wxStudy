@@ -1,0 +1,4 @@
+/* pages/BIC_text/BIC_text.wxss */
+text {
+  display: block;
+}

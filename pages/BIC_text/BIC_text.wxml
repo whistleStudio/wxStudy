@@ -1,0 +1,7 @@
+<!--pages/BIC_text/BIC_text.wxml-->
+<text space="ensp"> 今天    是</text>
+<text space="emsp"> 今天    是</text>
+<text space="nbsp"> 今天    是</text>
+<view></view>
+<text selectable> 二零二年 五月三十一日</text>
+<text decode> 明天&emsp;&emsp;&emsp;六一儿童节</text>

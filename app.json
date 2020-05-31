@@ -34,6 +34,7 @@
     "pages/includeUse/includeUse",
     "pages/WeUI/WeUI",
     "pages/BIC_view/BIC_view",
+    "pages/BIC_text/BIC_text",
     "pages/wxsUse/wxsUse"
   ],
   "sitemapLocation": "sitemap.json"
